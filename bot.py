@@ -1,5 +1,5 @@
 import os
-import requests
+import urllib.request
 import asyncio
 import logging
 from telegram import Update
